@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADDump", "ADDump.csproj", "{28BEC7D5-377C-4527-8D4E-6A654FE313C2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{06A1BE18-8F6D-4069-8085-63893E3E7A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BEC7D5-377C-4527-8D4E-6A654FE313C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BEC7D5-377C-4527-8D4E-6A654FE313C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BEC7D5-377C-4527-8D4E-6A654FE313C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BEC7D5-377C-4527-8D4E-6A654FE313C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A1BE18-8F6D-4069-8085-63893E3E7A49}.Debug|Any CPU.ActiveCfg = Debug
+		{06A1BE18-8F6D-4069-8085-63893E3E7A49}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
